@@ -1,6 +1,6 @@
 @echo off
 title Dual Boot Installer 0.3 by William Nichols
-goto Format
+rem goto Format
 echo Performing some checks...
 
 rem Check if we are running on arm
